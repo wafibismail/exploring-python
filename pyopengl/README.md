@@ -1,0 +1,2 @@
+### Gemini
+Rough positioning based on [this](https://unistellaroptics.com/gemini-constellation/), though magnitude (i.e. intensity) of each star is based of somewhere else (which I did not take note of and currently unable to locate).
