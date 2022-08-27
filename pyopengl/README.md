@@ -11,3 +11,6 @@ Need to record the mousedown event in a boolean to be able to tell when the mous
 
 ### Turtle & IFS (Iterated Function System)
 Experiment with a self-coded (guided by lab instructions) turtle graphics to produce fractal patterns.
+
+### Mesh
+Explore meshes; I've excluded the model files (cube, granny & donut) as these have huge file sizes
