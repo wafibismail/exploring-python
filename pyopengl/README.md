@@ -14,3 +14,6 @@ Experiment with a self-coded (guided by lab instructions) turtle graphics to pro
 
 ### Mesh
 Explore meshes; I've excluded the model files (cube, granny & donut) as these have huge file sizes
+
+### Camera
+Moving and aiming the camera
